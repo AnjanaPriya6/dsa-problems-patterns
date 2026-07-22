@@ -1,3 +1,5 @@
+package basics;
+
 public class PrintNTimesRecursion {
     public static void main(String args[]){
         func(5);
