@@ -1,6 +1,7 @@
+package basics;
+
 import java.util.Scanner;
 
-import static java.lang.Integer.decode;
 import static java.lang.Integer.parseInt;
 
 public class switchCaseEx {

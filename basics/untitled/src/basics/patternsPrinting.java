@@ -1,3 +1,5 @@
+package basics;
+
 public class patternsPrinting {
 
     public static void main(String args[]){
