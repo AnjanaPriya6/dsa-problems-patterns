@@ -18,8 +18,4 @@ public class RemoveTheDuplicatesFromTheArray{
         }
         return outputArray.stream().mapToInt(Integer::intValue).toArray();
     }
-
-    public static int[] removeDuplicatesSorted(int[] inputArray){
-
-    }
 }
